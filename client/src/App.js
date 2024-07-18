@@ -25,6 +25,7 @@ function App() {
           <div className="loader"> </div>{" "}
         </div>
       )}
+      {/* <BrowserRouter> */}
       <BrowserRouter>
         <Routes>
           <Route
